@@ -6,8 +6,8 @@ Based on my Showo component, I have created this new component "ShowoScreen". I 
 
 > Don't forget that It does not necesary write "px" to define the property font-size in Showo.
 
-> You can find the full example at: 
+> You can find the full example at: https://github.com/Merkov77/Example-ShowoScreen
 
 
 
-- Sorry for the quality of the gif
+Sorry for the quality of the gif
