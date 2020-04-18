@@ -10,3 +10,4 @@ Based on my Showo component, I have created this new component "ShowoScreen". I 
 
 
 
+- Sorry for the quality of the gif
