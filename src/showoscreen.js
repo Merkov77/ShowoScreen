@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import Showo from './showo';
 
-// Component for make presentations, actually using only 5 custom layers
-
 class ShowoScreen extends React.Component{
   constructor(props){
     super(props);
